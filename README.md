@@ -17,10 +17,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rosyimuth&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rosyimuth&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=rosyimuth&icon=5&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
