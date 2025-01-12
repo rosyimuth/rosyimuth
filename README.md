@@ -1,7 +1,7 @@
 ## Hi, I'm Rosyidah Muthmainnah 👋
 
 # 💫 About Me:
-👨‍💻 All of my projects are available at rosyimuth.my.id
+👩🏻‍💻 All of my projects are available at rosyimuth.my.id
 
 
 ## 🌐 Socials:
