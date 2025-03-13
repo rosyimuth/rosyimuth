@@ -1,12 +1,12 @@
 ## Hi, I'm Rosyidah Muthmainnah <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-### Connect With Me
+### <b> Connect With Me </b> 
 <p align="left">
   <a href="https://instagram.com/rosyimuth"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40px"></a>
   <a href="https://linkedin.com/in/rosyimuth"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40px"></a>
 </p>
 
-### Language & Tools
+### <b> Languages & Tools </b>
 <p align="left">
   <a href="#"><img alt="Laravel" height="50px" src="https://skillicons.dev/icons?i=laravel"></a>
   <a href="#"><img alt="HTML" height="50px" src="https://skillicons.dev/icons?i=html"></a>
