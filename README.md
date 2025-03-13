@@ -14,7 +14,7 @@
   <a href="#"><img alt="JavaScript" title="JavaScript" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a>
   <a href="#"><img alt="MySQL" title="MySQL" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"></a>
   <a href="#"><img alt="Figma" title="Figma" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></a>
-  <a href="#"><img alt="Bootstrap" title="Bootstrap" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></a>
+  <a href="#"><img alt="Bootstrap" title="Bootstrap" width="45px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></a>
   <a href="#"><img alt="PHP" title="PHP" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></a>
   <a href="#"><img alt="Python" title="Python" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a>
 </p>
