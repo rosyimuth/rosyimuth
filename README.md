@@ -7,7 +7,7 @@
 </p>
 
 ### Language & Tools
-<p align="left">
+<p align="left" style="background: none;">
   <a href="#"><img alt="Laravel" height="40px" src="https://skillicons.dev/icons?i=laravel"></a>
   <a href="#"><img alt="HTML" height="40px" src="https://skillicons.dev/icons?i=html"></a>
   <a href="#"><img alt="CSS" height="40px" src="https://skillicons.dev/icons?i=css"></a>
@@ -19,6 +19,12 @@
   <a href="#"><img alt="Python" height="40px" src="https://skillicons.dev/icons?i=python"></a>
   <a href="#"><img alt="VS Code" height="40px" src="https://skillicons.dev/icons?i=vscode"></a>
   <a href="#"><img alt="GitHub" height="40px" src="https://skillicons.dev/icons?i=github"></a>
+  <a href="#"><img alt="Git" height="40px" src="https://skillicons.dev/icons?i=git"></a>
+  <a href="#"><img alt="Canva" height="40px" src="https://skillicons.dev/icons?i=canva"></a>
+  <a href="#"><img alt="Apache2" height="40px" src="https://skillicons.dev/icons?i=apache"></a>
+  <a href="#"><img alt="Debian" height="40px" src="https://skillicons.dev/icons?i=debian"></a>
+  <a href="#"><img alt="Nginx" height="40px" src="https://skillicons.dev/icons?i=nginx"></a>
+  <a href="#"><img alt="WordPress" height="40px" src="https://skillicons.dev/icons?i=wordpress"></a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
