@@ -8,17 +8,17 @@
 
 ### Language & Tools
 <p align="left">
-  <a href="#"><img alt="Laravel" title="Laravel" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Laravel.svg"></a>
-  <a href="#"><img alt="HTML" title="HTML" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/HTML5_logo_resized.svg"></a>
-  <a href="#"><img alt="CSS" title="CSS" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_resized.svg"></a>
-  <a href="#"><img alt="JavaScript" title="JavaScript" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a>
-  <a href="#"><img alt="MySQL" title="MySQL" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg"></a>
-  <a href="#"><img alt="Figma" title="Figma" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></a>
-  <a href="#"><img alt="Bootstrap" title="Bootstrap" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></a>
-  <a href="#"><img alt="PHP" title="PHP" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></a>
-  <a href="#"><img alt="Python" title="Python" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a>
-  <a href="#"><img alt="VS Code" title="VS Code" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
-  <a href="#"><img alt="GitHub" title="GitHub" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></a>
+  <a href="#"><img alt="Laravel" title="Laravel" width="40px" height="40px" src="https://skillicons.dev/icons?i=laravel"></a>
+  <a href="#"><img alt="HTML" title="HTML" width="40px" height="40px" src="https://skillicons.dev/icons?i=html"></a>
+  <a href="#"><img alt="CSS" title="CSS" width="40px" height="40px" src="https://skillicons.dev/icons?i=css"></a>
+  <a href="#"><img alt="JavaScript" title="JavaScript" width="40px" height="40px" src="https://skillicons.dev/icons?i=js"></a>
+  <a href="#"><img alt="MySQL" title="MySQL" width="40px" height="40px" src="https://skillicons.dev/icons?i=mysql"></a>
+  <a href="#"><img alt="Figma" title="Figma" width="40px" height="40px" src="https://skillicons.dev/icons?i=figma"></a>
+  <a href="#"><img alt="Bootstrap" title="Bootstrap" width="40px" height="40px" src="https://skillicons.dev/icons?i=bootstrap"></a>
+  <a href="#"><img alt="PHP" title="PHP" width="40px" height="40px" src="https://skillicons.dev/icons?i=php"></a>
+  <a href="#"><img alt="Python" title="Python" width="40px" height="40px" src="https://skillicons.dev/icons?i=python"></a>
+  <a href="#"><img alt="VS Code" title="VS Code" width="40px" height="40px" src="https://skillicons.dev/icons?i=vscode"></a>
+  <a href="#"><img alt="GitHub" title="GitHub" width="40px" height="40px" src="https://skillicons.dev/icons?i=github"></a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
